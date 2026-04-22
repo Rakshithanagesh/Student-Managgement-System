@@ -1,0 +1,1 @@
+# Student-Management-System “A full-stack Student Management System built using Django and React to manage student records efficiently. It supports CRUD operations with a responsive UI and REST API integration, enabling seamless data handling and demonstrating practical full-stack development skills.”
