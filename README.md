@@ -60,13 +60,6 @@ npm start
   http://127.0.0.1:8000/
 * Use the interface to manage student records
 
----
-
-## 📸 Screenshots
-
-*(Add screenshots of your project here)*
-
----
 
 ## 💡 Future Improvements
 
